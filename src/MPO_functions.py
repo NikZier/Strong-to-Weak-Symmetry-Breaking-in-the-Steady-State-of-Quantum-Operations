@@ -3,7 +3,7 @@ This file includes usefull methods to work with matrix product operators and is 
 These methods include the following:
 
 MPS_drop_charge: Takes a tenpy tenpy.networks.mps.MPS with carhge conservation and remoces the charges
-double_to_mpo: Takes a MPS in the doubled HIlbert space and returns the matrix product density operator
+double_to_mpo: Takes a MPS in the doubled Hilbert space and returns the matrix product density operator
 mpo_product: computes the product of two mpos
 truncate_mpo: truncates the bond dimension of an MPO
 mpo_trace: computes the trace of an MPO

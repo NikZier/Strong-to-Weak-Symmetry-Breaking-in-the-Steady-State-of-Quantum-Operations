@@ -1,4 +1,4 @@
-This repository contains supplementary data and code for article "Strong-to-Weak Symmetry Breaking Phases in the Steady States of Quantum operations"
+This repository contains supplementary data and code for article "Strong-to-Weak Symmetry Breaking Phases in the Steady States of Quantum operations" by Niklas Ziereis, Sanjay Moudgalya and Michael Knap
 
 src:
 

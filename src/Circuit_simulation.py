@@ -2,7 +2,6 @@ import numpy as np
 import scipy as sc
 import scipy.sparse as sparse
 import csv  
-#import datetime
 from datetime import datetime
 import time
 import sys
